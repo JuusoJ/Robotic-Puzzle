@@ -1,3 +1,4 @@
+![Image](Pictures/PeriodicJazz.jpg)
 ## Welcome to Robotic Puzzle pages
 ### Lets fuck
 
@@ -29,7 +30,7 @@ Awesome stuff
 [Link](url) and ![Image](src)
 ```
 
-![Image](Pictures/PeriodicJazz.jpg)
+'''![Image](Pictures/PeriodicJazz.jpg)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
