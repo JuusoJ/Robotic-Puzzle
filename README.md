@@ -1,5 +1,5 @@
-## Welcome to GitHub Pages
-###Lets fuck
+## Welcome to Robotic Puzzle pages
+### Lets fuck
 
 You can use the [editor on GitHub](https://github.com/JuusoJ/Robotic-Puzzle/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -27,6 +27,8 @@ Awesome stuff
 
 [Link](url) and ![Image](src)
 ```
+
+![Image](src)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
