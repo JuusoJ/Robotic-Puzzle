@@ -28,7 +28,7 @@ Awesome stuff
 [Link](url) and ![Image](src)
 ```
 
-![Image](src)
+![Image](src="images/PeriodicJazz.png")
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
